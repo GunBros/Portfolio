@@ -32,7 +32,7 @@
 ### 2. [Issue Tracker](https://github.com/GunBros/IssueTracker-21)
 
 > 두 번째 프로젝트 간략 소개 (팀 프로젝트)  
-> 개발 기간: 2020.7.18 ~ 2020.11.5
+> 개발 기간: 2020.10.26 ~ 2020.11.13
 >
 > 기술 스택:  
 > ReactJS / Javascript / Webpack / Babel / ExpressJS / Nodejs / MySQL
