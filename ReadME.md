@@ -23,7 +23,7 @@
 > 개발 기간: 2020.11.16 ~ 2020.12.18
 >
 > 기술 스택:  
-> ReactJS / Canvas / TypeScript / GraphQL / Redux / Apollo / MaterialUI
+> ReactJS / Canvas / TypeScript / GraphQL / Redux / Apollo / MaterialUI  
 > socket.IO / Redis / MongoDB / Nodejs
 >
 > [프로젝트 상세 설명](https://github.com/boostcamp-2020/Project07-A-RealTime-Seat-Reservation-System) 참고
